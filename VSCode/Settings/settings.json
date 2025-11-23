@@ -1,0 +1,81 @@
+{
+    "workbench.colorCustomizations": {
+        },
+    "workbench.settings.applyToAllProfiles": [
+        "workbench.colorCustomizations",
+        "vscode-pets.theme"
+    ],
+    "window.titleBarStyle": "custom",
+    "vscode_custom_css.imports": [
+        "file:///c:/Users/Administrator/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.7/dist/updateHandler.js"
+    ],
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "animations.Install-Method": "Custom UI Style",
+    "animations.Enabled": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.fontWeight": "bold",
+    "editor.fontLigatures": false,
+    "workbench.editor.empty.hint": "hidden",
+    "emmet.preferences": {
+    
+    },
+    "vscode-pets.throwBallWithMouse": true,
+    "vscode-pets.petSize": "small",
+    "python.analysis.completeFunctionParens": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.saveFileBeforeRun": true,
+    "editor.fontVariations": false,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"       
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "github.copilot.enable": {
+        "plaintext": true,
+        "markdown": true,
+        "scminput": true
+    },
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "inline"
+    },
+    "editor.snippetSuggestions": "top",
+    "custom-ui-style.external.imports": [
+        "file:///c:/Users/Administrator/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.7/dist/updateHandler.js"
+    ],
+    "workbench.panel.showLabels": false,
+    "editor.fontFamily": "'JetBrainsMono Nerd Font', Consolas, 'Courier New', monospace",
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "python.defaultInterpreterPath": "c:\\Users\\Administrator\\manimations\\.venv\\Scripts\\python.exe",
+    "manim-sideview.defaultManimPath": "C:\\Users\\Administrator\\manimations\\.venv\\Scripts\\manim.exe",
+    "python.autoComplete.extraPaths": [],
+    "C_Cpp.autocompleteAddParentheses": true,
+    "terminal.integrated.fontSize": 10,
+    "terminal.integrated.fontFamily": "'JetBrainsMono Nerd Font', Consolas, 'Courier New', monospace",
+    "terminal.integrated.fontWeightBold": "bold",
+    "terminal.integrated.fontWeight": "bold",
+    "manim-sideview.checkeredBackground": false,
+    "python.analysis.inlayHints.functionReturnTypes": true,
+    "python.analysis.inlayHints.callArgumentNames": "partial",
+    "python.analysis.typeCheckingMode": "standard",
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.allowedLinkSchemes": [
+        "file",
+        "http",
+        "https",
+        "mailto",
+        "vscode",
+        "vscode-insiders",
+        "ms-settings"
+    ],
+    "workbench.activityBar.location": "top",
+    "workbench.sideBar.location": "right",
+    "window.menuBarVisibility": "compact",
+    "window.commandCenter": false,
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "vscode-pets.theme": "forest",
+    "settingsSync.ignoredSettings": [],
+}
